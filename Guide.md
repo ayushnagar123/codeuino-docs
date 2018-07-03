@@ -61,12 +61,14 @@ Our project is an important part of Free Software Ecosystem. We work with other 
  
 >>**Cloning our GitHub repository:-** The **git clone** command is used to copy an existing Git repository from a server to the local machine. To clone our git repository follow these steps in your terminals:-
 
->>>1. **cd < path where you would like the clone to create a directory >**
->>>2. copy and paste this code into your terminals for cloning our website code. Similarly just change the link to clone the other repositories **git clone https://github.com/*Codeuino*/website-www.*Codeuino*.org.git **
+>>>1. ```cd < path where you would like the clone to create a directory >```
+>>>2. copy and paste this code into your terminals for cloning our website code. Similarly just change the link to clone the other repositories 
+```git clone https://github.com/Codeuino/website-www.Codeuino.org.git ```
  
 >>*To clone any other repository:-* Go to that GitHub repository. Click on clone and download, copy the link and paste in the place such as:-
-**git clone < copy your link here >**
- 
+```
+git clone < copy your link here >
+```
 >>Now pick an issue which isn’t assigned and which you would like to fix. Leave a comment that you would like to work on that particular issue. This way we don’t have multiple people working on the same issue at the same time. After this, you can start working on it.
  
 
@@ -83,17 +85,17 @@ Our project is an important part of Free Software Ecosystem. We work with other 
 of your forked repository as you cannot have two pull requests using the same branch name. Therefore, if your fork’s master has been used in a pull request and you decide to work on a different issue you will have to branch eventually. Differently every new commit that you make on your master branch will get attached to the initial pull request and that will result in altering the purpose of that request.
  
 >>You can create a branch per set of changes. To do that run:
-
-**$ git checkout -b branchname**
-
+```
+$ git checkout -b branchname
+```
 where your branch name can be anything other than master. The scope is your forked repository. The branch name will be shown on pull request.Before pushing the pull request, you must test your changes with some concrete examples. 
  
 >### Step 5. Making Commits
  
 >>Now that you’ve solved the issue and have tested it, and you think it is ready to be merged, create a commit and push it to your fork, using:
-
-**$ git push -u myfork &lt;branchname&gt**
-
+```
+$ git push -u myfork &lt;branchname&gt
+```
 where myfork is the name of your fork that you added at the previous step.
 
 >>When writing a commit message:-
