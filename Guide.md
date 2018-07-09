@@ -4,7 +4,7 @@
 >*Codeuino* is a non-profit organization that helps to bring amazing people together to create, develop, design and make things with Open Technologies and share work for the benefit of all.
 Our project is an important part of Free Software Ecosystem. We work with other free projects to create high-quality solutions that span the entire software stack. While the many *Codeuino* contributors develop code, smash bugs, write documentation, and help users, the Foundation acts as a guiding hand in the process and provides resources and infrastructure. It steers releases, determines what software is officially part of the project, and acts as an official face of the *Codeuino* Project to the outside world, through it delegates most of its authority to specialized teams. Therefore, this guide would help you to become an integral part of the Community.
  
- >>>##**Working with Codeuino**##
+ >>>## Working with Codeuino
 
 >Everyone in the *Codeuino* community is expected to follow our Code of Conduct. To become part of the *Codeuino* developers team, there are a few steps you need to complete. The newcomer process is as follows:
 
