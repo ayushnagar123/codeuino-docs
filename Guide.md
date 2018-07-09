@@ -4,7 +4,7 @@
 >*Codeuino* is a non-profit organization that helps to bring amazing people together to create, develop, design and make things with Open Technologies and share work for the benefit of all.
 Our project is an important part of Free Software Ecosystem. We work with other free projects to create high-quality solutions that span the entire software stack. While the many *Codeuino* contributors develop code, smash bugs, write documentation, and help users, the Foundation acts as a guiding hand in the process and provides resources and infrastructure. It steers releases, determines what software is officially part of the project, and acts as an official face of the *Codeuino* Project to the outside world, through it delegates most of its authority to specialized teams. Therefore, this guide would help you to become an integral part of the Community.
  
- >>>##**Working with Codeuino**##
+ >>>##**Working with Codeuino**
 
 >Everyone in the *Codeuino* community is expected to follow our Code of Conduct. To become part of the *Codeuino* developers team, there are a few steps you need to complete. The newcomer process is as follows:
 
@@ -45,7 +45,7 @@ Our project is an important part of Free Software Ecosystem. We work with other 
 
 >>If you have some interesting ideas about a new project that you think our organization should work upon, you are most welcome to do so. To propose a new project follow the steps mentioned below :-
 
->>1. We have created a different channel **#newproject** on Slack for our organization where you can propose your project. In this channel we have the team which decides the projects that our organization should work upon.
+>>1. We have created a different channel **#chalk-outProposals** on Slack for our organization where you can propose your project. In this channel we have the team which decides the projects that our organization should work upon.
 >>2. If your project is unanimously accepted by the team then you will be allowed to create issues regarding your project. But until then, you cannot do so.
 >>3. As soon the project is accepted you will be the official admin of that project and you will be free to create issues. You are allowed to assign the issue to anyone you feel worthy( if the one is interested to do it ). Please do not mention anyone without a reason.
 >>4. Also, you can then label the issue as **“Work In Progress” (wip)**, so that others do not work on it.
