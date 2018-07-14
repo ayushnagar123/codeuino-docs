@@ -6,6 +6,7 @@ Our project is an important part of Free Software Ecosystem. We work with other 
  
  >>>## Working with Codeuino
 
+
 >Everyone in the *Codeuino* community is expected to follow our Code of Conduct. To become part of the *Codeuino* developers team, there are a few steps you need to complete. The newcomer process is as follows:
 
 >You will start as a newcomer, which is kind of a trial. If you complete the following tasks, you will become a developer at *Codeuino*:-
@@ -45,7 +46,7 @@ Our project is an important part of Free Software Ecosystem. We work with other 
 
 >>If you have some interesting ideas about a new project that you think our organization should work upon, you are most welcome to do so. To propose a new project follow the steps mentioned below :-
 
->>1. We have created a different channel **#newproject** on Slack for our organization where you can propose your project. In this channel we have the team which decides the projects that our organization should work upon.
+>>1. We have created a different channel **#chalk-outProposals** on Slack for our organization where you can propose your project. In this channel we have the team which decides the projects that our organization should work upon.
 >>2. If your project is unanimously accepted by the team then you will be allowed to create issues regarding your project. But until then, you cannot do so.
 >>3. As soon the project is accepted you will be the official admin of that project and you will be free to create issues. You are allowed to assign the issue to anyone you feel worthy( if the one is interested to do it ). Please do not mention anyone without a reason.
 >>4. Also, you can then label the issue as **“Work In Progress” (wip)**, so that others do not work on it.
